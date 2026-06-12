@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/AmanSayyad13">
-    <img src="./Mypassportphoto.jpeg" alt="profile views" />
+    <img src="./Mypassportphoto.jpeg" alt="profile views" height="150" />
   </a>
 </p>
 
