@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/AmanSayyad13">
-    <img src="https://komarev.com/ghpvc/?username=AmanSayyad13&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="./Mypassportphoto.jpeg" alt="profile views" />
   </a>
 </p>
 
